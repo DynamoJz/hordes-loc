@@ -4,7 +4,8 @@ export default [{
   name: {$$: 'Auto attack'},
 
   description: {
-    en: 'Perform automatic melee attacks with your weapon.'
+    en: 'Perform automatic melee attacks with your weapon.',
+    es: 'Realiza ataques cuerpo a cuerpo automáticos con tu arma'.
   }
 },
 {
